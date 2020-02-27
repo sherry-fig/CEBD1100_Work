@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39f8a7ae-9148-4ecb-b916-8b966e421601" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CEBD1100" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\sherr\PycharmProjects\CEBD1100\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WlLZ6WWD0IKrills8UKA9ZrV9t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sherr\PycharmProjects\CEBD1100\exercise " />
+      <recent name="C:\Users\sherr\PycharmProjects\CEBD1100" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.region_practice">
+    <configuration name="function1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CEBD1100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CEBD1100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CEBD1100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CEBD1100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="region_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CEBD1100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/region_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.region_practice" />
+        <item itemvalue="Python.function5" />
+        <item itemvalue="Python.function4" />
+        <item itemvalue="Python.function3" />
+        <item itemvalue="Python.function1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39f8a7ae-9148-4ecb-b916-8b966e421601" name="Default Changelist" comment="" />
+      <created>1579719286142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579719286142</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="202" y="45" key="#Notifications" timestamp="1582156779268">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="202" y="45" key="#Notifications/0.0.1216.771@0.0.1216.771" timestamp="1582156779268" />
+    <state x="512" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582572935684">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="512" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1097.577@0.0.1097.577" timestamp="1582572935684" />
+    <state x="662" y="192" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1216.771@0.0.1216.771" timestamp="1580952646730" />
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1582770290707">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1216.771@0.0.1216.771" timestamp="1582770290707" />
+    <state x="326" y="30" key="FileChooserDialogImpl" timestamp="1581475617978">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="326" y="30" key="FileChooserDialogImpl/0.0.1097.577@0.0.1097.577" timestamp="1581475617978" />
+    <state x="460" y="277" width="267" height="216" key="Github.ShareDialog" timestamp="1582770338943">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="460" y="277" width="267" height="216" key="Github.ShareDialog/0.0.1216.771@0.0.1216.771" timestamp="1582770338943" />
+    <state x="397" y="92" key="Github.UntrackedFilesDialog" timestamp="1582770344183">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="397" y="92" key="Github.UntrackedFilesDialog/0.0.1216.771@0.0.1216.771" timestamp="1582770344183" />
+    <state width="644" height="223" key="GridCell.Tab.0.bottom" timestamp="1582770367737">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1073" height="162" key="GridCell.Tab.0.bottom/0.0.1094.690@0.0.1094.690" timestamp="1580349717608" />
+    <state width="538" height="228" key="GridCell.Tab.0.bottom/0.0.1097.577@0.0.1097.577" timestamp="1582571217652" />
+    <state width="644" height="223" key="GridCell.Tab.0.bottom/0.0.1216.771@0.0.1216.771" timestamp="1582770367737" />
+    <state width="1259" height="165" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580331693900" />
+    <state width="644" height="223" key="GridCell.Tab.0.center" timestamp="1582770367737">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1073" height="162" key="GridCell.Tab.0.center/0.0.1094.690@0.0.1094.690" timestamp="1580349717601" />
+    <state width="538" height="228" key="GridCell.Tab.0.center/0.0.1097.577@0.0.1097.577" timestamp="1582571217652" />
+    <state width="644" height="223" key="GridCell.Tab.0.center/0.0.1216.771@0.0.1216.771" timestamp="1582770367737" />
+    <state width="1259" height="165" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580331693900" />
+    <state width="644" height="223" key="GridCell.Tab.0.left" timestamp="1582770367737">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1073" height="162" key="GridCell.Tab.0.left/0.0.1094.690@0.0.1094.690" timestamp="1580349717601" />
+    <state width="538" height="228" key="GridCell.Tab.0.left/0.0.1097.577@0.0.1097.577" timestamp="1582571217652" />
+    <state width="644" height="223" key="GridCell.Tab.0.left/0.0.1216.771@0.0.1216.771" timestamp="1582770367737" />
+    <state width="1259" height="165" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580331693900" />
+    <state width="644" height="223" key="GridCell.Tab.0.right" timestamp="1582770367737">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1073" height="162" key="GridCell.Tab.0.right/0.0.1094.690@0.0.1094.690" timestamp="1580349717608" />
+    <state width="538" height="228" key="GridCell.Tab.0.right/0.0.1097.577@0.0.1097.577" timestamp="1582571217652" />
+    <state width="644" height="223" key="GridCell.Tab.0.right/0.0.1216.771@0.0.1216.771" timestamp="1582770367737" />
+    <state width="1259" height="165" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580331693900" />
+    <state width="1195" height="240" key="GridCell.Tab.1.bottom" timestamp="1581556982453">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1073" height="211" key="GridCell.Tab.1.bottom/0.0.1094.690@0.0.1094.690" timestamp="1580349642198" />
+    <state width="1076" height="163" key="GridCell.Tab.1.bottom/0.0.1097.577@0.0.1097.577" timestamp="1581388331918" />
+    <state width="1195" height="240" key="GridCell.Tab.1.bottom/0.0.1216.771@0.0.1216.771" timestamp="1581556982453" />
+    <state width="1259" height="205" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580331128208" />
+    <state width="1195" height="240" key="GridCell.Tab.1.center" timestamp="1581556982453">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1073" height="211" key="GridCell.Tab.1.center/0.0.1094.690@0.0.1094.690" timestamp="1580349642197" />
+    <state width="1076" height="163" key="GridCell.Tab.1.center/0.0.1097.577@0.0.1097.577" timestamp="1581388331918" />
+    <state width="1195" height="240" key="GridCell.Tab.1.center/0.0.1216.771@0.0.1216.771" timestamp="1581556982453" />
+    <state width="1259" height="205" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580331128208" />
+    <state width="1195" height="240" key="GridCell.Tab.1.left" timestamp="1581556982453">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1073" height="211" key="GridCell.Tab.1.left/0.0.1094.690@0.0.1094.690" timestamp="1580349642197" />
+    <state width="1076" height="163" key="GridCell.Tab.1.left/0.0.1097.577@0.0.1097.577" timestamp="1581388331918" />
+    <state width="1195" height="240" key="GridCell.Tab.1.left/0.0.1216.771@0.0.1216.771" timestamp="1581556982453" />
+    <state width="1259" height="205" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580331128208" />
+    <state width="1195" height="240" key="GridCell.Tab.1.right" timestamp="1581556982453">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1073" height="211" key="GridCell.Tab.1.right/0.0.1094.690@0.0.1094.690" timestamp="1580349642198" />
+    <state width="1076" height="163" key="GridCell.Tab.1.right/0.0.1097.577@0.0.1097.577" timestamp="1581388331918" />
+    <state width="1195" height="240" key="GridCell.Tab.1.right/0.0.1216.771@0.0.1216.771" timestamp="1581556982453" />
+    <state width="1259" height="205" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580331128208" />
+    <state x="112" y="0" key="SettingsEditor" timestamp="1582156746317">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="101" y="0" key="SettingsEditor/0.0.1097.577@0.0.1097.577" timestamp="1581476320430" />
+    <state x="112" y="0" key="SettingsEditor/0.0.1216.771@0.0.1216.771" timestamp="1582156746317" />
+    <state x="202" y="120" key="Vcs.Push.Dialog.v2" timestamp="1582770309711">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="202" y="120" key="Vcs.Push.Dialog.v2/0.0.1216.771@0.0.1216.771" timestamp="1582770309711" />
+    <state x="77" y="40" key="com.intellij.ide.util.TipDialog" timestamp="1582575670150">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="77" y="48" key="com.intellij.ide.util.TipDialog/0.0.1094.690@0.0.1094.690" timestamp="1579740598085" />
+    <state x="77" y="40" key="com.intellij.ide.util.TipDialog/0.0.1097.577@0.0.1097.577" timestamp="1582575670150" />
+    <state x="85" y="53" key="com.intellij.ide.util.TipDialog/0.0.1216.771@0.0.1216.771" timestamp="1581553577977" />
+    <state x="423" y="0" width="672" height="575" key="search.everywhere.popup" timestamp="1581391778374">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="423" y="0" width="672" height="575" key="search.everywhere.popup/0.0.1097.577@0.0.1097.577" timestamp="1581391778374" />
+    <state x="623" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580323892978" />
+    <state x="440" y="178" key="svn.repositoryBrowser" timestamp="1582157283116">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="440" y="178" key="svn.repositoryBrowser/0.0.1216.771@0.0.1216.771" timestamp="1582157283116" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/draw a box.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="b+c" language="Python" />
+        <watch expression="b+c" language="Python" />
+        <watch expression="b+c" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
